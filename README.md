@@ -3,7 +3,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 (3° Período)
-- 19 anos
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mabeldlarek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
