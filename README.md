@@ -3,7 +3,6 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 (3° Período)
-- Atualmente estou desenvolvendo meus conhecimentos na linguagem Java, em banco de dados relacional (PostgreSQL), além de estar acompanhando conteúdos referentes ao desenvolvimento web (Html, CSS e JavaScript).
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
