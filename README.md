@@ -2,7 +2,7 @@
 ## Oii! Eu sou a Maria 
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-(3° Período)
+(4° Período)
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
