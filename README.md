@@ -1,8 +1,7 @@
 
 ## Oii! Eu sou a Maria 
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-(6° Período)
+- 🎓Graduada em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
